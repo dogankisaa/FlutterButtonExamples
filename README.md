@@ -1,2 +1,2 @@
 # FlutterButtonExamples
-easy to use exampels about buttons
+easy to use examples about buttons
